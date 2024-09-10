@@ -1,6 +1,6 @@
 # Projeto de BI - Relatório de Vendas e Produtos
 
-Este projeto de Business Intelligence (BI) foi desenvolvido para fornecer uma análise detalhada das vendas e produtos de uma empresa ao longo de diferentes períodos. Utilizando gráficos interativos e visualizações claras, o relatório permite uma compreensão aprofundada dos dados de vendas por ano, semestre, país, produto e continente.
+Este projeto de Business Intelligence (BI) foi desenvolvido para fornecer uma análise detalhada das vendas e produtos de uma empresa ao longo de diferentes períodos. Utilizando gráficos interativos e visualizações claras, o relatório permite uma compreensão aprofundada dos dados de vendas por ano, semestre, país, produto, continente e segmentos de mercado.
 
 ## Páginas e Visualizações
 
@@ -22,14 +22,26 @@ Esta página concentra-se na análise de produtos com os seguintes gráficos:
 - **Gráfico de Barras Clusterizado**: Compara as vendas de diferentes produtos em diferentes categorias ou regiões.
 - **Gráfico de Colunas Empilhadas com Linhas**: Top 3 produtos por continente, combinando o volume de vendas com a tendência de crescimento.
 
+### 3. Página de Análise por Segmento de Mercado
+
+Esta página foca na análise das vendas e lucros por diferentes segmentos de mercado:
+
+- **Gráfico de Barras Empilhadas por Segmento**: Mostra o volume de vendas por segmento ao longo de períodos (ano, semestre, trimestre).
+- **Mapa de Calor (Heatmap) de Lucro por Segmento e Região**: Visualiza o lucro por segmento em diferentes países, identificando os segmentos mais lucrativos por região.
+- **Gráfico de Linhas de Vendas Médias ao Longo do Tempo**: Exibe a evolução das vendas médias ao longo do tempo para cada segmento, destacando tendências sazonais ou de crescimento.
+- **Gráfico de Rosca de Distribuição de Unidades Vendidas por Segmento**: Representa a participação de cada segmento no total de unidades vendidas.
+
+
+
 ## Objetivos do Projeto
 
-- Fornecer uma visão abrangente das vendas ao longo de diferentes períodos e regiões.
+- Fornecer uma visão abrangente das vendas ao longo de diferentes períodos, regiões e segmentos.
 - Identificar produtos de melhor desempenho e oportunidades de crescimento.
 - Facilitar a tomada de decisões estratégicas com base em dados.
 
 ## Como Visualizar o Relatório
 
+
 1. Use os filtros interativos para personalizar a visualização dos dados.
-2. Explore as diferentes páginas e gráficos para uma compreensão completa dos dados de vendas e produtos.
+2. Explore as diferentes páginas e gráficos para uma compreensão completa dos dados de vendas, produtos e segmentos.
 
